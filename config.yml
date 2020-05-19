@@ -78,7 +78,7 @@ languageCode: it
 # than English! When tested with Lithuanian,
 # it would add unnecesary placeholders to
 # values that were intentionally empty.
-defaultContentLanguage: it
+defaultContentLanguage: en
 
 # What is the hostname or path to the root?
 # Where is the site hosted?
