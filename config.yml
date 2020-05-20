@@ -20,12 +20,12 @@ params:
         video. It is reliant on our CDN.
       category: Uncategorized
   dateFormat: January 2, 2006 at 3:04 PM
-  brand: "#0a0c0f"
+  brand: "#F0F0F0"
   headerTextColor: white
   logo: /logo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
-  alwaysKeepBrandColor: false
+  alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: false
   disrupted: "#cc4400"
