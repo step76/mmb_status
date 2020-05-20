@@ -2,7 +2,7 @@ title: MMB Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: it
-baseURL: https://friendly-bohr-33bcff.netlify.app/
+baseURL: https://status.yap.mmb.software/
 params:
   disableDarkMode: true
   shortDateFormat: 15:04 — Jan 2
