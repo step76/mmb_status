@@ -31,7 +31,7 @@ params:
   useLogo: false
   disrupted: "#cc4400"
   notice: "#24478f"
-  incidentHistoryFormat: yearly
+  incidentHistoryFormat: monthly
   disableIncidentHistory: false
   ok: "#008000"
   categories:
@@ -39,6 +39,7 @@ params:
       untitled: true
     - name: YAP
       closed: true
+      untited: false
     - name: WS
       closed: true
   description: We continuously monitor the status of our services and if there are
