@@ -9,9 +9,9 @@ params:
   down: "#e60000"
   systems:
     - name: Gateway
-      category: North Coast
+      category: Uncategorized
     - name: Backup Gateway
-      category: East Coast
+      category: Uncategorized
     - name: API
       description: The guts of the application.
       category: Uncategorized
@@ -25,6 +25,7 @@ params:
   logo: /logo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
+  customTabs: []
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: false
@@ -34,12 +35,12 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: North Coast
-      description: The main servers are located here.
-      closed: true
-    - name: East Coast
     - name: Uncategorized
       untitled: true
+    - name: YAP
+      closed: true
+    - name: WS
+      closed: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: false
