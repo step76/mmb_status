@@ -19,6 +19,39 @@ params:
       description: This is the service responsible for serving images, audio, and
         video. It is reliant on our CDN.
       category: Uncategorized
+    - name: webclient
+      category: YAP
+      displayName: Applicazione
+    - name: fe
+      category: YAP
+      displayName: e-bill
+    - name: api-export
+      category: YAP
+      displayName: API Export
+    - name: api-int
+      category: YAP
+      displayName: API Integration
+    - name: pcp
+      category: YAP
+      displayName: PCP
+    - name: yapds
+      category: YAP
+      displayName: YAPDs
+    - name: wsnet
+      category: YAP
+      displayName: Workshop.NET
+    - name: comunicazioni
+      category: YAP
+      displayName: Comunicazioni
+    - name: ced
+      category: YAP
+      displayName: CED
+    - name: kromeda
+      category: YAP
+      displayName: Kromeda
+    - name: stampe
+      category: YAP
+      displayName: Stampe
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#F0F0F0"
   headerTextColor: white
