@@ -38,21 +38,26 @@ params:
     - name: yapds
       category: YAP
       displayName: YAPDs
+      description: API per il corretto funzionamento di YAPDs
     - name: wsnet
       category: YAP
       displayName: Workshop.NET
+      description: API per il corretto funzionamento di Workshop.NET
     - name: comunicazioni
       category: YAP
       displayName: Comunicazioni
     - name: ced
       category: YAP
       displayName: CED
+      description: Servizi di ricerca per targa e normalizzazioni
     - name: kromeda
       category: YAP
       displayName: Kromeda
+      description: Servizi di integrazione con Kromeda
     - name: stampe
       category: YAP
       displayName: Stampe
+      description: Servizi di generazione delle stampe
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#F0F0F0"
   headerTextColor: white
