@@ -8,17 +8,6 @@ params:
   shortDateFormat: 15:04 — Jan 2
   down: "#e60000"
   systems:
-    - name: Gateway
-      category: Uncategorized
-    - name: Backup Gateway
-      category: Uncategorized
-    - name: API
-      description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and
-        video. It is reliant on our CDN.
-      category: Uncategorized
     - name: webclient
       category: YAP
       displayName: Applicazione
