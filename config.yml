@@ -47,6 +47,38 @@ params:
       category: YAP
       displayName: Stampe
       description: Servizi di generazione delle stampe
+    - name: mmbWebSite
+      category: WS
+      displayName: Sito web MMB
+      description: Sito web www.mmbsoftware.it
+    - name: revisioniOnLineWebSite
+      category: WS
+      displayName: Sito web RevisioniOnLine
+      description: Sito web www.revisionionline.com
+    - name: liveupdate
+      category: WS
+      displayName: LiveUpdate
+      description: Applicazione LiveUpdate
+    - name: sms
+      category: WS
+      displayName: Sms
+      description: Servizio Sms
+    - name: email
+      category: WS
+      displayName: Email
+      description: Servizio Email
+    - name: postcard
+      category: WS
+      displayName: Postcard
+      description: Servizio Postcard
+    - name: ws
+      category: WS
+      displayName: WebServices
+      description: WebServices MMB
+    - name: amministrazioneInterna
+      category: WS
+      displayName: Amministrazione interna
+      description: Applicazione amministrazione interna MMB
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#F0F0F0"
   headerTextColor: white
