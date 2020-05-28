@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Mancato comunicazione dei server verso i client
+title: Mancata comunicazione dei server verso i client
 date: 2020-05-28T13:13:40.333Z
 resolved: false
 informational: false
