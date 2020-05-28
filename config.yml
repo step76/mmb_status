@@ -79,7 +79,7 @@ params:
       category: WS
       displayName: Amministrazione interna
       description: Applicazione amministrazione interna MMB
-  dateFormat: January 2, 2006 at 3:04 PM
+  dateFormat: January 2, 2006 at 15:04 +0200
   brand: "#F0F0F0"
   headerTextColor: white
   logo: /logo.png
