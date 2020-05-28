@@ -11,6 +11,9 @@ affected:
   - yapds
   - wsnet
   - stampe
+  - ced
 severity: disrupted
 ---
+*Monitoraggio in corso* - Il servizio CED dovrebbe essere nuovamente funzionante, gli altri servizi sono ancora non disponibili. {{< track "2020-05-28 15:20:00" >}}
+
 *Indagine in corso* - C'è un malfunzionamento che impedisce all'agenda di ricevere aggiornamenti, che impedisce ai client YAP di ricevere le notifiche. Altri comparti che potrebbero avere malfunzionamenti sono le situazioni di magazzino.
