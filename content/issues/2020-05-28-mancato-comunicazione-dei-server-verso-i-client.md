@@ -14,6 +14,16 @@ affected:
   - ced
 severity: disrupted
 ---
+*Postmortem*
+
+All'incirca alle 15:10, il sistema di monitoraggio di Google ha rilevato dei problemi su 2 server di un cluster di 3 facendo partire una procedura di ripristino che consiste nel distruggere ed eliminare i server non funzionanti per ricrearne di nuovi.
+
+Alcuni servizi ospitati sul cluster sono realizzati per poter funzionare correttamente solo in presenza di almeno 2 server e questo ha creato un malfunzionamento su alcuni componenti.
+
+Tutta la gestione dell'anomalia è stata completamente automatizzata ed anche se ha causato alcuni malfunzionamenti per alcuni minuti non ha richiesto alcun intervento manuale. 
+
+---
+
 *Risolto* - Confermata la piena risoluzione del problema. Seguirà una piena analisi delle cause. {{< track "2020-05-28 15:39:00" >}}
 
 *Monitoraggio in corso* - Il problema è rientrato ed i servizi sono tutti operativi. Ci sono alcune code che devono essere svuotate e che quindi possono provocare anche qualche lentezza. {{< track "2020-05-28 15:32:00" >}}
