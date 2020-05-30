@@ -6,7 +6,9 @@ resolved: false
 informational: false
 resolvedWhen: 2020-05-30T05:41:55.036Z
 affected:
-  - ""
+  - webclient
+  - api-export
+  - api-int
 severity: down
 ---
 *Monitoraggio in corso* - Lo YAP è completamente offline a causa di una procedura che ha completamente esaurito tutto il budget giornaliero predisposto.\
