@@ -11,6 +11,10 @@ affected:
   - api-int
 severity: down
 ---
+*Monitoraggio in corso* - I servizi sono ripartiti, ma ci sono ancora errori e rallentamenti dovuti al picco di traffico e al fatto che tutte le risorse devono ripartire.\
+Occorrono ancora alcuni minuti affinché la situazione si stabilizzi.\
+{{< track "2020-05-30 09:00:00" >}}
+
 *Monitoraggio in corso* - Lo YAP è completamente offline a causa di una procedura che ha completamente esaurito tutto il budget giornaliero predisposto.\
 Il budget è giornaliero e viene azzerato ogni giorno, il momento dell'azzeramento corrisponde alle 0:00 della costa ovest degli Stati Uniti e corrisponde alle 9:00 ora italiana, pertanto alle 9:00 lo YAP tornerà pienamente operativo.\
 Intanto è stato aperto un ticket con l'azienda che si occupa del billing per cercare di alzare momentaneamente il budget prima delle 9:00 e riprendere l'operatività prima.\
