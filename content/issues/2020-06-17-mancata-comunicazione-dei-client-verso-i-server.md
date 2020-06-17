@@ -14,7 +14,9 @@ affected:
   - ced
 severity: disrupted
 ---
-*Indagine in corso* - Ci sono ancora problemi, anche nell'interrogazione dei servizi esterni come DMC, CED e DMZ. {{< track "2020-06-17 11:11:00" >}}
+*Monitoraggio* - I servizi stanno funzionando parzialmente. Non dovrebbero esserci problemi evidenti dal punto di vista funzionale grazie ai sistemi ridondanti e di backup. {{< track "2020-06-17 11:25:00" >}}
+
+*Monitoraggio* - Ci sono ancora problemi, anche nell'interrogazione dei servizi esterni come DMC, CED e DMZ. {{< track "2020-06-17 11:11:00" >}}
 
 *Monitoraggio* - Il problema è rientrato, permangono alcuni rallentamenti che si andranno a risolvere nei prossimi minuti. {{< track "2020-06-17 11:05:00" >}}
 
