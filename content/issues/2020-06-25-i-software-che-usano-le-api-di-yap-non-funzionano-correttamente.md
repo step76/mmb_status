@@ -9,6 +9,8 @@ affected:
   - api-int
 severity: disrupted
 ---
+*Monitoraggio in corso* - E' rilasciata la risoluzione al problema. Stiamo veificando che sia tutto funzionante. {{< track "2020-06-25 13:45:00" >}}
+
 *Risoluzione in corso* - Si è verificato un problema temporaneo nella preparazione della risoluzione e quindi il rilascio verrà eseguito entro un'ora. {{< track "2020-06-25 12:55:00" >}}
 
 *Risoluzione in corso* - La risoluzione verrà rilasciata entro un'ora. {{< track "2020-06-25 11:45:00" >}}
