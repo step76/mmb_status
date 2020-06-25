@@ -9,6 +9,8 @@ affected:
   - api-int
 severity: disrupted
 ---
+*Risoluzione in corso* - Si è verificato un problema temporaneo nella preparazione della risoluzione e quindi il rilascio verrà eseguito entro un'ora. {{< track "2020-06-25 12:55:00" >}}
+
 *Risoluzione in corso* - La risoluzione verrà rilasciata entro un'ora. {{< track "2020-06-25 11:45:00" >}}
 
 *Risoluzione in corso* - Il problema è esclusivamente nell'API di login usata da *YapModelEditor*, stiamo lavorando alla risoluzione del problema. {{< track "2020-06-25 10:10:00" >}}
