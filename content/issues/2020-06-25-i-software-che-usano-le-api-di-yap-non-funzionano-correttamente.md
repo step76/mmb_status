@@ -9,7 +9,9 @@ affected:
   - api-int
 severity: disrupted
 ---
-*Risoluzione in corso* - Il problema è esclusivamente nell'API di login usata da *YapModelEditor*, stiamo lavorando alla risoluzione del problem. {{< track "2020-06-25 10:10:00" >}}
+*Risoluzione in corso* - La risoluzione verrà rilasciata entro un'ora. {{< track "2020-06-25 11:45:00" >}}
+
+*Risoluzione in corso* - Il problema è esclusivamente nell'API di login usata da *YapModelEditor*, stiamo lavorando alla risoluzione del problema. {{< track "2020-06-25 10:10:00" >}}
 
 *Indagine in corso* - Dopo una prima analisi il problema sembra molto meno esteso e circoscritto al solo *YapModelEditor*, mentre il resto delle API dovrebbe funzionare correttamente. {{< track "2020-06-25 09:55:00" >}}
 
