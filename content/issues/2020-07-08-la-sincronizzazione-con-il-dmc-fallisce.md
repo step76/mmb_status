@@ -2,13 +2,15 @@
 section: issue
 title: La sincronizzazione con il DMC fallisce
 date: 2020-07-08T07:07:33.119Z
-resolved: false
+resolved: true
 informational: false
-resolvedWhen: 2020-07-08T07:07:33.145Z
+resolvedWhen: 2020-07-08T08:53:51.259Z
 affected:
   - dmc
 severity: disrupted
 ---
+*Risolto* - Tutti i task di sincronizzazione in coda sono stati correttamente smaltiti. {{< track "2020-07-08 10:53:00" >}}
+
 *Monitoraggio in corso* - E' stato rilasciato l'aggiornamento che risolve il problema, seguono verifiche per confermare la risoluzione del problema. {{< track "2020-07-08 10:39:00" >}}
 
 *Risoluzione in corso* - Verrà rilasciato un aggiornamento di backend per risolvere il problema e dovrebbe essere pronto nel giro di un'ora. {{< track "2020-07-08 09:55:00" >}}
