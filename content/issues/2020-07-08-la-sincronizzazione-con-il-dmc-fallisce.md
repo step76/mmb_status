@@ -9,6 +9,8 @@ affected:
   - dmc
 severity: disrupted
 ---
+*Monitoraggio in corso* - E' stato rilasciato l'aggiornamento che risolve il problema, seguono verifiche per confermare la risoluzione del problema. {{< track "2020-07-08 10:39:00" >}}
+
 *Risoluzione in corso* - Verrà rilasciato un aggiornamento di backend per risolvere il problema e dovrebbe essere pronto nel giro di un'ora. {{< track "2020-07-08 09:55:00" >}}
 
 *Risoluzione in corso* - E' in corso la preparazione di un aggiornamento per risolvere il problema. {{< track "2020-07-08 09:30:00" >}}
