@@ -79,6 +79,9 @@ params:
       category: WS
       displayName: Amministrazione interna
       description: Applicazione amministrazione interna MMB
+    - name: dmc
+      category: YAP
+      description: DMC
   dateFormat: January 2, 2006 at 15:04
   brand: "#F0F0F0"
   headerTextColor: white
