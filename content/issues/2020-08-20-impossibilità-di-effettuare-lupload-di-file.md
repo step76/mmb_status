@@ -9,4 +9,4 @@ affected:
   - client
 severity: disrupted
 ---
-*Indagine in corso* - Un disservizio da parte di Google impedisce l'upload di alcuni file, restituendo un errore 500. {{< track "2020-08-20 8:40:00" >}}
+*Indagine in corso* - Un disservizio da parte di Google (<!--StartFragment--><https://status.cloud.google.com/incident/zall/20007><!--EndFragment-->) impedisce l'upload di alcuni file, restituendo un errore 500. {{< track "2020-08-20 8:40:00" >}}
