@@ -9,4 +9,10 @@ affected:
   - client
 severity: disrupted
 ---
+<!--StartFragment-->
+
+*Risolto* - Tutti i servizi Google risultano di nuovo disponibili. {{< track "2020-08-20 14:44:00" >}}
+
+<!--EndFragment-->
+
 *Indagine in corso* - Un disservizio da parte di Google (<!--StartFragment--><https://status.cloud.google.com/incident/zall/20007><!--EndFragment-->, <https://status.cloud.google.com/incident/zall/20008>) impedisce l'upload di alcuni file, restituendo un errore 500. {{< track "2020-08-20 8:40:00" >}}
