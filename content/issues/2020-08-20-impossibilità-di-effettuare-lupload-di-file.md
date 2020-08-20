@@ -4,7 +4,7 @@ title: Impossibilità di effettuare l'upload di file
 date: 2020-08-20T06:40:00.000Z
 resolved: true
 informational: false
-resolvedWhen: ""
+resolvedWhen: 2020-08-20T12:44:35.319Z
 affected:
   - client
 severity: disrupted
