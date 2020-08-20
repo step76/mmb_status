@@ -9,9 +9,17 @@ affected:
   - client
 severity: disrupted
 ---
+
+
 <!--StartFragment-->
 
 *Risolto* - Tutti i servizi Google risultano di nuovo disponibili. {{< track "2020-08-20 14:44:00" >}}
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+*Monitoraggio in corso* - Si seguono sulla pagina sopracitata gli aggiornamenti rilasciati man mano da Google sulla risoluzione del disservizio. {{< track "2020-08-20 9:25:00" >}}
 
 <!--EndFragment-->
 
