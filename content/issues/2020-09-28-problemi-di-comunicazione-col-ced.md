@@ -2,13 +2,15 @@
 section: issue
 title: Problemi di comunicazione col CED
 date: 2020-09-28T07:15:00.000Z
-resolved: false
+resolved: true
 informational: false
-resolvedWhen: ""
+resolvedWhen: 2020-09-28T12:02:51.734Z
 affected:
   - ced
 severity: disrupted
 ---
+*Aggiornamento* - In questo momento il CED è tornato a rispondere correttamente e quindi i servizi sono tornati a funzionare. {{< track "2020-09-28 14:00:00" >}}
+
 *Aggiornamento* - Da alcuni test una piccolissima parte delle chiamate funziona correttamente, ma il grosso del traffico va ancora in errore. {{< track "2020-09-28 13:00:00" >}}
 
 *Aggiornamento* - Continuano i problemi, ma la mitigazione permette di ridurre al minimo l'impatto sull'operatività. {{< track "2020-09-28 11:15:00" >}}
