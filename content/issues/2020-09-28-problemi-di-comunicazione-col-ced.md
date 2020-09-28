@@ -9,6 +9,8 @@ affected:
   - ced
 severity: disrupted
 ---
+*Aggiornamento* - Continuano i problemi, ma la mitigazione permette di ridurre al minimo l'impatto sull'operatività. {{< track "2020-09-28 11:15:00" >}}
+
 *Aggiornamento* - L'operatività delle revisioni dovrebbe essere salvaguardata, invece la mancanza di collegamento CED influisce sui seguenti servizi:
 
 - importazione ACI con normalizzazione parte ma rimane in blocco
