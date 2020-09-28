@@ -9,7 +9,7 @@ affected:
   - ced
 severity: disrupted
 ---
-*Aggiornamento* - In questo momento il CED è tornato a rispondere correttamente e quindi i servizi sono tornati a funzionare. {{< track "2020-09-28 14:00:00" >}}
+*Aggiornamento* - In questo momento il CED è tornato a rispondere correttamente alla maggior parte delle richieste e quindi i servizi sono tornati a funzionare (anche se a singhiozzo). Chiudiamo la segnalazione. {{< track "2020-09-28 14:00:00" >}}
 
 *Aggiornamento* - Da alcuni test una piccolissima parte delle chiamate funziona correttamente, ma il grosso del traffico va ancora in errore. {{< track "2020-09-28 13:00:00" >}}
 
